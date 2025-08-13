@@ -1,4 +1,4 @@
-README - Sistema de Liga de Fútbol en C#
+README - sistema de Liga de Fútbol en C#
 
 REQUISITOS DEL SISTEMA
 
@@ -10,25 +10,19 @@ REQUISITOS DEL SISTEMA
 
 INSTRUCCIONES PARA EJECUTAR
 
-1. Abrir el proyecto en tu editor/IDE.
+1. Abrir el proyecto en tu editor/IDE
 2. Verificar que todos los archivos .cs estén en la misma carpeta del proyecto:
    - Persona.cs
    - Jugador.cs
-   - Entrenador.cs
-   - Arbitro.cs
    - Equipo.cs
    - Partido.cs
    - Liga.cs
-   - Estadio.cs
    - Program.cs
 3. Asegurate que todos esten en el mismo namespace o sin namespace.
 
 4. Compilar el proyecto:
    - Si usas Visual Studio presiona F5 o selecciona "Iniciar depuración"
   
-5. Ejecutar el programa:
-   dotnet run
-
 
 ESCENARIO DEMOSTRADO EN EL PROGRAMA
 
@@ -43,8 +37,8 @@ ESCENARIO DEMOSTRADO EN EL PROGRAMA
 
 NOTAS IMPORTANTES
 
-- Si mueves los archivos a carpetas, actualiza los namespaces.
-- En caso de error con la letra "ñ", reemplazala por "n" en nombres de variables y propiedades.
+- Si mueves los archivos a carpetas, actualiza los namespaces
+
 
 
 AUTOR: VICENTE Y. LOPEZ V.
