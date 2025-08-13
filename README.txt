@@ -36,7 +36,7 @@ ESCENARIO DEMOSTRADO EN EL PROGRAMA
 
 
 NOTAS IMPORTANTES
-
+- Ha sido necesario crear una clase llamada "Persona" para cumplir con herencia y el polimorfismo
 - Si mueves los archivos a carpetas, actualiza los namespaces
 
 
